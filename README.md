@@ -1,4 +1,4 @@
-Installation Process----
+Installation Process________
 
 $ pkg update
 
